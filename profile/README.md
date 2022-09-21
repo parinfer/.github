@@ -3,4 +3,4 @@
 
 # Parinfer
 
-### [an improved way to write, Lisp, Scheme, Clojure... etc.](https://shaunlebron.github.io/parinfer/)
+### [Let's simplify the way we write, Lisp (or Scheme, Clojure, etc.)](https://shaunlebron.github.io/parinfer/)
