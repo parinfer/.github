@@ -35,7 +35,7 @@ Development on the following roadmap started in September 2022.
 
 ### Roadmap
 
-- [x] ~~[Parstager]: undo parinfer formatting on unchanged top-level forms before staging in git~~
+- [x] [Parstager]: undo parinfer formatting on unchanged top-level forms before staging in git
 - [ ] Fixes for [non-clojure dialects](https://github.com/parinfer/parinfer.js/issues/209)
 - [ ] Canonical exe to share between plugins (in c)
 - [ ] Clarify and facilitate editor support (e.g. vscode)
